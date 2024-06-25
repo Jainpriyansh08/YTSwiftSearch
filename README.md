@@ -6,7 +6,7 @@ This search tool allows you to quickly open your favorite YouTube video by simpl
 
 Clone the repository: 
 ```bash
-  git clone 
+  git clone https://github.com/Jainpriyansh08/YTSwiftSearch.git
 ```
 
 Create a python3.11 virtual environment and activate it:
